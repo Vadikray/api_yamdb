@@ -66,3 +66,5 @@ python3 manage.py runserver
 ```
 Python 3.9 Django 3.2 Simple JWT
 ```
+## Автор
+[Конюшков В.А.](https://t.me/Vadikray)
